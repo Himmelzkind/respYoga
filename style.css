@@ -89,7 +89,10 @@ p {
 
 @media (max-width: 576px) {
   h1 {
-    font-size: 52px;
+    font-size: 40px;
+  }
+  h2 {
+    font-size: 30px;
   }
   img {
     display: none;
