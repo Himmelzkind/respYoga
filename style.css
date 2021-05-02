@@ -93,8 +93,16 @@ p {
   }
   h2 {
     font-size: 30px;
+    text-align: center;
   }
   img {
     display: none;
+  }
+  p {
+    text-align: center;
+  }
+
+  .primary-link {
+    text-align: center;
   }
 }
